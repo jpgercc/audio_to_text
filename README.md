@@ -1,4 +1,4 @@
-# Transcreve - Scripts de Gravação e Transcrição de Áudio
+# Scripts de Gravação e Transcrição de Áudio
 
 Este repositório contém dois scripts Python para gravação de áudio e transcrição automática utilizando o modelo Whisper da OpenAI.
 
