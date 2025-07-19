@@ -15,9 +15,7 @@ Este repositório contém dois scripts Python para gravação de áudio e transc
   ```powershell
   pip install openai-whisper sounddevice numpy scipy keyboard
   # O Whisper instala o PyTorch automaticamente, mas para melhor desempenho (ex: GPU), siga as instruções em https://pytorch.org/get-started/locally/
-  # É necessário ter o ffmpeg instalado e disponível no PATH do sistema.
   ```
-  - Para instalar o ffmpeg no Windows, baixe em https://ffmpeg.org/download.html e adicione a pasta `bin` ao PATH.
 
 - **Como rodar:**
   ```powershell
